@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My Shamisen Text 
+<img>img.jpg </img>
 Use the left arrow to go back!
